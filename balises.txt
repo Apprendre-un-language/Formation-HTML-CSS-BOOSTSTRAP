@@ -1,60 +1,78 @@
+Voilà toutes les balises que l'on va utiliser lors de la formation
+
 <!DOCTYPE html>
+le doctype html n'est pas une balise mais une information que l'on donne aux navigateurs pour comprendre qu'ils ont a faire à du HTML
 
 
 
 <html lang="en">
-
+C'est la balise principale qui va englober tout notre code HTML
 
 
 <head>
+C'est l'en-tête de la page. Tout ce qui se trouve à l'intérieur fera parti de l'en-tête
 
 
 
 <meta charset="UTF-8">
+Les meta données de la page dans notre cas on indique que notre code sera encodé en UTF-8
 
 
 
 <title>Portfolio</title>
+Le titre de la page. C'est ce qui s'affichera comme titre dans les onglets de nos navigateurs par exemple
 
 
 
 <link rel="stylesheet" href="styles/index.css">
+Le link permet de faire un lien avec du CSS
 
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+La balise script permet de faire un lien avec du code JavaScript
+
 
 
 <div></div>
+C'est une balise générique qui nous permet de créer des blocks de code et de compartimenter notre code. C'est comme une boîte.
 
 
 
 <h4></h4>
+La balise H4 permet de mettre un titre d'une certaine grosseur. La balise H1 étant le titre le plus gros et H6 le plus petit
 
 
 
 <h2></h2>
+Le H2 comme dis ci-dessus c'est une titre plus grand
 
 
 
 <p></p>
+La balise P représente un paragraphe. C'est pour écrire du texte basique
 
 
 
 <ul></ul>
+La balise UL indique que l'on veut faire une liste non numéroté (comme des bullets points)
 
 
 
 <li></li>
+La balise LI elle contient les éléments de la liste non numéroté UL
 
 
 
 <a></a>
+La balise A nous permet de placer des liens hypertexte dans notre code HTML
 
 
 
 <i></i>
+La balise I nous permet de placer des icones un peu partout ou l'on veut
 
 
 
 <footer></footer>
+Pour finir le FOOTER est le pied de la page. Généralement ce sera notre dernier élement dans notre code HTML
