@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+
+
+<head>
+
+
+
+<meta charset="UTF-8">
+
+
+
+<title>Portfolio</title>
+
+
+
+<link rel="stylesheet" href="styles/index.css">
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+
+<div></div>
+
+
+
+<h4></h4>
+
+
+
+<h2></h2>
+
+
+
+<p></p>
+
+
+
+<ul></ul>
+
+
+
+<li></li>
+
+
+
+<a></a>
+
+
+
+<i></i>
+
+
+
+<footer></footer>

@@ -1,0 +1,46 @@
+.vertical-nav {
+    width: 14vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+}
+
+.bg-black {
+    background-color: #040b15 !important;
+}
+
+.bg-grey {
+    color: #5f5d5e;
+}
+
+.bg-hover:hover{
+    background: #657181;
+}
+
+.page-content {
+    margin-left: 15vw;
+    z-index: -1;
+}
+
+body {
+    background: #ffffff;
+}
+
+.box{
+    border: solid 1px #040b15;
+    -moz-box-shadow: 0 0 20px #040b15;
+    -webkit-box-shadow: 0 0 20px #040b15;
+    box-shadow: 0 0 20px #040b15;
+}
+
+.separator {
+    margin: 3vw 0;
+    border-bottom: 1px dashed #000;
+}
+
+.text-gray {
+    color: #aaa;
+}
